@@ -1,0 +1,43 @@
+version: "3.1"
+
+responses:
+  utter_greet:
+    - text: "Hey! How are you?"
+
+  utter_how_to_contact:
+    - text: |
+        **Tampa USA**
+        Address: 
+        TechAffinity, Inc.
+        20701 Bruce B Downs Blvd, Suite 204
+        Tampa, FL 33647
+        Phone:
+        - +1 813 867 0014
+        - +1 813 693 5533
+
+        **Chennai India**
+        Address: 
+        TechAffinity Global Private Limited,
+        901 - 902, TICEL Bio Park Phase II,
+        5 CSIR Road, Tharamani, Chennai 600 113
+        Phone:
+        + 91 44 6680 6565 
+        
+        **Kigali Rwanda **
+        
+        Address:
+        TechAffinity Limited,
+        Cogebanque Building - 4th Floor,
+        KN 63 St, Kigali, Rwanda
+        Phone:
+        +250 788981033
+        
+        **San Salvador , El Salvador**
+        Address: 
+        TechAffinity, Inc.
+        89 North Avenue and El Mirador Street,
+        San Salvador, El Salvador
+        
+        Mail:
+        - info@techaffinity.com
+        - media@techaffinity.com
